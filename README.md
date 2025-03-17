@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @voylento
 - 👀 I’m interested in creating software to gsd (get sh*t done)
-- 🌱 Python is my main gsd language
-
+- 👷🏼‍♂️ Python is my main gsd language
+- 👍 I also like coreutils and especially awk + sed + grep for gsd
+  
 
 
 <!---
