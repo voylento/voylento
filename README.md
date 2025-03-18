@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @voylento
-- 👀 I’m interested in creating software to gsd (get sh*t done)
-- 👷🏼‍♂️ Python is my main gsd language
-- 👍 I also like coreutils and especially awk + sed + grep for gsd
+- 👋 Hola, me llamo @voylento
+- 👀 Me gusta desarrollar software para mis proyectos personales
+- 👷🏼‍♂️ Python es mi lenguaje preferido para mis proyectos personales
+- 👍 También me gustan las coreutils, especialmente awk + sed + grep para resolver tareas
+- 🔗 Puedes visitar mi página web en [https://voylento.com](voylento.com)
   
 
 
