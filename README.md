@@ -2,7 +2,7 @@
 - 👀 Me gusta desarrollar software para mis proyectos personales
 - 👷🏼‍♂️ Python es mi lenguaje preferido para mis proyectos personales
 - 👍 También me gustan las coreutils, especialmente awk + sed + grep para resolver tareas
-- 🔗 Puedes visitar mi página web en [https://voylento.com](voylento.com)
+- 🔗 Puedes visitar mi página web en [Voy Lento](https://www.voylento.com)
   
 
 
