@@ -3,6 +3,7 @@
 - 👷🏼‍♂️ Python es mi lenguaje preferido para mis proyectos personales
 - 👍 También me gustan las coreutils, especialmente awk + sed + grep para resolver tareas
 - 🔗 Puedes visitar mi página web en [Voy Lento](https://www.voylento.com)
+- Sin prisa pero sin pausa
   
 
 
