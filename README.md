@@ -4,8 +4,8 @@
 - 👍 También me gustan las coreutils, especialmente awk + sed + grep para resolver tareas
 - 🔗 Puedes visitar mi página web en [Voy Lento](https://www.voylento.com)
 - Sin prisa pero sin pausa
-  
 
+Mi perfíl en [Boot.dev](https:www.boot.dev)
 
 <!---
 voylento/voylento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
