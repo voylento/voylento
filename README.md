@@ -5,7 +5,7 @@
 - 🔗 Puedes visitar mi página web en [Voy Lento](https://www.voylento.com)
 - Sin prisa pero sin pausa
 
-Mi perfil en [Boot.dev](https://www.boot.dev)
+Mi perfil en [Boot.dev](https://www.boot.dev/u/voylento)
 
 <!---
 voylento/voylento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
