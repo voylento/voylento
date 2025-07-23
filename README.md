@@ -1,8 +1,8 @@
-- 👋 Hola, me llamo @voylento
-- 👀 Me gusta desarrollar software para mis proyectos personales
-- 👷🏼‍♂️ Python es mi lenguaje preferido para mis proyectos personales
-- 👍 También me gustan las coreutils, especialmente awk + sed + grep para resolver tareas
-- 🔗 Puedes visitar mi página web en [Voy Lento](https://www.voylento.com)
+- 👋 Hey there! I'm Voy Lento
+- 👀 I'm a software developer focusing on Go and Python. 
+- 👷🏼‍♂️ Python is my favorite GSD language.
+- 👍 I'm always pleased when I can put coreutils to work, especially awk + sed + grep.
+- 🔗 I have a web page: [Voy Lento](https://www.voylento.com)
 - Sin prisa pero sin pausa
 
 [![VoyLento Boot.dev Profile](https://api.boot.dev/v1/users/public/a7eb9164-ba88-4bee-80f3-fb1289ed9a7e/thumbnail)](https://www.boot.dev/u/voylento)
